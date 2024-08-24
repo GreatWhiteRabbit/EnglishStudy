@@ -1,0 +1,44 @@
+{
+  "id": "4425311",
+  "name": "英语学习",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "18211533",
+      "name": "火箭",
+      "font_class": "huojian",
+      "unicode": "e7c2",
+      "unicode_decimal": 59330
+    },
+    {
+      "icon_id": "436017",
+      "name": "阅读",
+      "font_class": "yuedu",
+      "unicode": "e806",
+      "unicode_decimal": 59398
+    },
+    {
+      "icon_id": "14388859",
+      "name": "听力王",
+      "font_class": "tingliwang",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "26841827",
+      "name": "日报",
+      "font_class": "ribao",
+      "unicode": "ea3f",
+      "unicode_decimal": 59967
+    },
+    {
+      "icon_id": "34485617",
+      "name": "记单词",
+      "font_class": "tubiao",
+      "unicode": "e698",
+      "unicode_decimal": 59032
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "name": "home",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@aspnet/signalr": "^1.0.27",
+    "axios": "^0.19.2",
+    "clipboard": "^2.0.6",
+    "core-js": "^3.8.3",
+    "echarts": "^5.4.3",
+    "element-ui": "^2.13.2",
+    "marked": "^1.1.1",
+    "mavon-editor": "^2.10.4",
+    "nprogress": "^0.2.0",
+    "qs": "^6.11.2",
+    "scrollreveal": "^4.0.7",
+    "vue": "^2.6.14",
+    "vue-audio-better": "^3.0.1",
+    "vue-baberrage": "^3.2.4",
+    "vue-dompurify-html": "^2.3.0",
+    "vue-router": "^3.4.3",
+    "vue-savedata": "^2.0.6",
+    "vue-seamless-scroll": "^1.1.23"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.16",
+    "@babel/eslint-parser": "^7.12.16",
+    "@babel/preset-env": "^7.11.0",
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-eslint": "~5.0.0",
+    "@vue/cli-plugin-router": "5.0.",
+    "@vue/cli-plugin-vuex": "5.0.",
+    "@vue/cli-service": "~5.0.0",
+    "eslint": "^7.32.0",
+    "eslint-plugin-vue": "^8.0.3",
+    "stylus": "^0.54.8",
+    "stylus-loader": "^3.0.2",
+    "vue-template-compiler": "^2.6.14"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "@babel/eslint-parser"
+    },
+    "rules": {
+      "vue/multi-word-component-names": "off",
+      "no-unused-vars": "off",
+      "vue/no-unused-components": "off",
+      "valid-v-for": "off",
+      "vue/no-use-v-if-with-v-for": "off",
+      "no-useless-escape": "off"
+
+
+
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
